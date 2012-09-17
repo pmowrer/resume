@@ -1,20 +1,25 @@
 Patrick Mowrer  
 <pmowrer@gmail.com>  
-(415)260-0620  
-<http://patrickmowrer.com>  
+(415)260-0620   
+<http://patrickmowrer.com>     
+
+# Education
+
+## Santa Clara University, 2002 - 2006 
+B.S. in Computer Science
+
+# Technical skills
+HTML, JavaScript, CSS, ActionScript, Flex, Adobe AIR
 
 # Work Experience
 
 ## Tinychat, Lead Application Developer, Feb 2012 - Current
 
-* Sole developer of one of the web's most popular video chat applications,
+* Sole developer of one of the web's most popular video chat applications, 
 used by 6-7 million unique users per month.
 
-* Hired to build the application from scratch, starting immediately on
-joining the Tinychat team. It's currently mostly written in AS3 and
-organized using the Robotlegs MVC framework.
-
-* The application loads a chat room via RTMP, enabling up to 12 people to
+* The application is written in Flex/AS3, structured using the Robotlegs MVC framework.
+It loads a chat room via RTMP, enabling up to 12 people to
 video-chat simultaneously, while any amount of other users may join the
 room to watch and text chat.
 
@@ -22,6 +27,9 @@ room to watch and text chat.
 moderation interfaces to ban/mute/remove user video, "green room" to
 pre-screen user video, private messaging via a custom Tinychat protocol
 and Facebook XMPP.
+
+* Developed video/voice calling application for the iPhone (via AIR) and 
+the web (exposing API to JavaScript) based on same ActionScript 3 code base. 
 
 ## HBO, Flex Developer, Nov 2010 - Feb 2012
 
@@ -46,8 +54,3 @@ coverage and efficiency.
 features.
 
 * Managed testing effort of European 3rd party vendors.
-
-# Education
-
-## Santa Clara University, 2002 - 2006 
-### B.S. in Computer Science
