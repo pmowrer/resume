@@ -13,7 +13,7 @@ HTML, JavaScript, CSS, ActionScript, Flex, Adobe AIR
 
 # Work Experience
 
-## Tinychat, Lead Application Developer, Feb 2012 - Current
+## Tinychat, Lead Application Developer, Feb 2011 - Current
 
 * Sole developer of one of the web's most popular video chat applications, 
 used by 6-7 million unique users per month.
@@ -31,7 +31,7 @@ and Facebook XMPP.
 * Developed video/voice calling application for the iPhone (via AIR) and 
 the web (exposing API to JavaScript) based on same ActionScript 3 code base. 
 
-## HBO, Flex Developer, Nov 2010 - Feb 2012
+## HBO, Flex Developer, Nov 2010 - Feb 2011
 
 * Part of development team responsible for Flex applications powering
 hbogo.com and maxgo.com.
