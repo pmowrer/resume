@@ -20,24 +20,12 @@ HTML5, JavaScript, Backbone, CSS, ActionScript, Flex, Robotlegs, SQL, Agile, CI,
 
 ## HBO, Flex Developer, Nov 2010 - Feb 2011
 
-* Part of development team for Flex applications powering hbogo.com and maxgo.com.
-
-* Developed the "portal player", a lite version of the
-HBOGO application embedded on websites of cable provider affiliates.
-
-* Responsible for all client-side feature and maintenance work related to
-cable provider affiliate integration.
+* Part of development team building Flex applications powering hbogo.com and maxgo.com.
 
 ## Adobe Systems, Flash Authoring Quality Engineer, Aug 2006 - July 2010
 
-* Responsible for quality of Swedish versions of Flash Professional CS3
-through CS5.
-
-* Developed UI-verification toolset on own initiative, increasing testing
-coverage and efficiency.
-
-* Planned and executed international testing effort of new product
-features, managing testing effort of European 3rd party vendors.
+* Planned and executed testing effort of new product
+features, developed QA toolsets and managed testing effort of 3rd party vendors.
 
 # Education
 
