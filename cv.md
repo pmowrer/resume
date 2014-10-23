@@ -1,31 +1,29 @@
+---
+geometry: margin=1.5in
+---
+\pagenumbering{gobble}
+
 Patrick Mowrer  
 <pmowrer@gmail.com>  
 (415)260-0620   
-<http://patrickmowrer.com>     
+<http://github.com/pmowrer>
 
-# Technologies and methodologies
-HTML5, JavaScript, Backbone, CSS, ActionScript, Flex, Robotlegs, SQL, Agile, CI, Jenkins, Grunt, Gradle, ANT, Maintainable architecture 
+# Primary technologies
+JavaScript, Backbone, Node, HTML, CSS, git, ActionScript.
 
 # Work Experience
 
-## YouNow, Senior Software Engineer, Feb 2013 - Current
+## Sports195, Lead Software Engineer, Dec 2013 - Current
+Led one of the development verticals for the company's mobile hybrid app platform running on a Backbone/Node/Scala stack. To date, hundreds of sites have launched on this platform. Managed application features through their life cycles, delegating assignments to team members and pairing on implementation details. Dev lead on front-end team, performing code reviews and managing application architecture. 
 
-* Led effort to convert company's product, a single page Flash video streaming application, to a Backbone-based HTML5 application.
+## YouNow, Senior Software Engineer, Feb 2013 - Dec 2013
+Led effort to convert YouNow's web application from single page Flash to a Backbone-driven HTML5.
 
 ## Tinychat, Lead Application Developer, Feb 2011 - Feb 2013
+Built one of the web's most popular multi-way video chat applications from the ground up, a complex Flash/Flex/Robotlegs application communicating with media servers and a PHP backend. Used by 100+ millions of users through its lifetime. 
 
-* Led development of one of the web's most popular multi-way video chat applications, used by 100s of millions of users through its lifetime. Application features include enabling 12 simultaneous video streams and thousands of visitors per chat room, social/media sharing via several popular services, extensive moderation and pre-screening abilities, and instant messaging via several platforms including Tinychat's own.
-
-* The application has hosted many large celebrity chats, guests including Justin Bieber, Lady Gaga and Ashton Kutcher, with 10k+ simultaneous users in the same chat room.
-
-## HBO, Flex Developer, Nov 2010 - Feb 2011
-
-* Part of development team building Flex applications powering hbogo.com and maxgo.com.
-
-## Adobe Systems, Flash Authoring Quality Engineer, Aug 2006 - July 2010
-
-* Planned and executed testing effort of new product
-features, developed QA toolsets and managed testing effort of 3rd party vendors.
+## Adobe Systems, Quality Engineer, Aug 2006 - July 2010
+Built QA tooling and applications, planned and executed testing effort of new product features and lead testing effort of 3rd party vendors.
 
 # Education
 
