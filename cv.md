@@ -12,9 +12,11 @@ Patrick Mowrer
 JavaScript, Backbone, Node, HTML, CSS, git, ActionScript.
 
 # Work Experience
+## Updater, Lead Frontend Engineer, Dec 2014 - Current
+Played a key role in building Updater’s frontend team, growing it from 2 to 8. Drove continuous effort to modernize the frontend tech stack and architecture. Led project teams for some of company's most important product initiatives.
 
-## Sports195, Lead Software Engineer, Dec 2013 - Current
-Led one of the development verticals for the company's mobile hybrid app platform running on a Backbone/Node/Scala stack. To date, hundreds of sites have launched on this platform. Managed application features through their life cycles, delegating assignments to team members and pairing on implementation details. Dev lead on front-end team, performing code reviews and managing application architecture. 
+## Sports195, Lead Software Engineer, Dec 2013 - Nov 2014
+Led one of the development verticals for the company's mobile hybrid app platform running on a Backbone/Node/Scala stack. Dev lead on front-end team, performing code reviews and managing application architecture.
 
 ## YouNow, Senior Software Engineer, Feb 2013 - Dec 2013
 Led effort to convert YouNow's web application from single page Flash to a Backbone-driven HTML5.
