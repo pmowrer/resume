@@ -8,9 +8,6 @@ Patrick Mowrer
 (415)260-0620   
 <http://github.com/pmowrer>
 
-# Primary technologies
-JavaScript, Backbone, Node, HTML, CSS, git, ActionScript.
-
 # Work Experience
 
 ## Sports195, Lead Software Engineer, Dec 2013 - Nov 2014
