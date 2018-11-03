@@ -13,17 +13,17 @@ JavaScript, Backbone, Node, HTML, CSS, git, ActionScript.
 
 # Work Experience
 
-## Sports195, Lead Software Engineer, Dec 2013 - Current
-Led one of the development verticals for the company's mobile hybrid app platform running on a Backbone/Node/Scala stack. To date, hundreds of sites have launched on this platform. Managed application features through their life cycles, delegating assignments to team members and pairing on implementation details. Dev lead on front-end team, performing code reviews and managing application architecture. 
+## Sports195, Lead Software Engineer, Dec 2013 - Nov 2014
+Led one of the development verticals for the company's mobile-first single page web app product, a white label global sports news portal built on a Backbone/Node/Scala stack. 
 
 ## YouNow, Senior Software Engineer, Feb 2013 - Dec 2013
-Led effort to convert YouNow's web application from single page Flash to a Backbone-driven HTML5.
+Led effort to convert YouNow's single page web app product from Flash to Backbone.
 
 ## Tinychat, Lead Application Developer, Feb 2011 - Feb 2013
-Built one of the web's most popular multi-way video chat applications from the ground up, a complex Flash/Flex/Robotlegs application communicating with media servers and a PHP backend. Used by 100+ millions of users through its lifetime. 
+Built one of the web's most popular multi-way video chats, an IRC-like Flash app supporting 12 simultaneous video streams, effects, moderation, text chat and more. Used by 100+ millions of users through its lifetime. 
 
 ## Adobe Systems, Quality Engineer, Aug 2006 - July 2010
-Built QA tooling and applications, planned and executed testing effort of new product features and lead testing effort of 3rd party vendors.
+Built QA tooling and applications, planned and executed testing effort of new product features and organized testing effort of 3rd party vendors. Shipped Swedish versions of Adobe Flash CS3-CS5.
 
 # Education
 
