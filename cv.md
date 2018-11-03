@@ -9,6 +9,8 @@ Patrick Mowrer
 <http://github.com/pmowrer>
 
 # Work Experience
+## Updater, Lead Frontend Engineer, Dec 2014 - Nov 2018
+Played a key role in building Updater’s frontend team, growing it from 2 to 8. Drove effort to continuously modernize the frontend tech stack and architecture supporting the company's mobile-first single page web apps. Led development effort of important company product initiatives. Contributed to open source where possible in an effort to build Updater’s presence and return effort to the community.
 
 ## Sports195, Lead Software Engineer, Dec 2013 - Nov 2014
 Led one of the development verticals for the company's mobile-first single page web app product, a white label global sports news portal built on a Backbone/Node/Scala stack. 
