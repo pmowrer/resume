@@ -1,6 +1,3 @@
----
-geometry: margin=1.5in
----
 \pagenumbering{gobble}
 
 Patrick Mowrer  

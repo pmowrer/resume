@@ -4,7 +4,7 @@ pandoc_cmd = pandoc -S $< -o $(name).$@
 all: pdf odt docx doc
 
 pdf: cv.md
-	$(pandoc_cmd)
+	$(pandoc_cmd) -V geometry:margin=1in
 
 odt: cv.md
 	$(pandoc_cmd)
