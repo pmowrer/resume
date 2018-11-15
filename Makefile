@@ -1,7 +1,7 @@
 name = "Patrick Mowrer"
 pandoc_cmd = pandoc -S $< -o $(name).$@
 
-all: pdf odt docx doc
+all: pdf odt docx doc html
 
 pdf: cv.md
 	$(pandoc_cmd) -V geometry:margin=1in
@@ -14,3 +14,6 @@ docx: cv.md
 
 doc: cv.md
 	$(pandoc_cmd)
+
+html: cv.md
+	$(pandoc_cmd) -c style.css -o index.html
