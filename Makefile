@@ -3,8 +3,8 @@ pandoc_cmd = pandoc -S $< -o $(name).$@
 
 all: pdf odt docx doc html
 
-pdf: cv.md
-	$(pandoc_cmd) -V geometry:margin=1in
+pdf: html
+	wkhtmltopdf index.html $(name).$@
 
 odt: cv.md
 	$(pandoc_cmd)
