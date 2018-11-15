@@ -45,7 +45,7 @@ Built one of the web's most popular multi-way video chats, an IRC-like Flash app
 
 ## Quality Engineer
 
-Adobe Systems
+Adobe 
 
 Aug 2006 - July 2010
 
