@@ -1,0 +1,122 @@
+body {
+  color: #222;
+  font-family: Calibri, Helvetica, Arial, sans-serif;
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 40px;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+code {
+  font-family: inherit;
+}
+
+hr {
+  margin: 20px 0;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  text-transform: uppercase;
+}
+
+h1 {
+  font-size: 40px;
+  letter-spacing: 2px;
+  margin: 20px 0;
+}
+
+h2 {
+  display: inline-block;
+  margin: 0;
+  white-space: nowrap; /* Needed for wkhtmltopdf */
+}
+
+ul {
+  padding: 0 0 0 18px;
+}
+
+li {
+  margin: 7px 0;
+}
+
+ul,
+p {
+  max-width: 745px;
+}
+
+/* Name */
+body > p:nth-child(1) {
+  display: inline-block;
+  font-family: 'Helvetica Neue';
+  font-size: 55px;
+  font-weight: 200;
+  text-transform: uppercase;
+  letter-spacing: 4px;
+  transform: scaleY(1.15);
+  -webkit-transform: scaleY(1.15); /* Needed for wkhtmltopdf */
+  margin: 0;
+}
+
+/* First Name */
+body > p:nth-child(1) strong {
+  font-weight: 100;
+}
+
+/* Contact info */
+body > p:nth-child(2) {
+  display: inline-block;
+  font-family: 'Helvetica Neue';
+  font-weight: 200;
+  text-align: right;
+  float: right;
+  margin: 0;
+  letter-spacing: 0.5px;
+}
+
+body > p:nth-child(2) > a {
+  display: block;
+}
+
+body > p:nth-child(2) > a:first-of-type {
+  margin-bottom: 5px;
+}
+
+body > p:nth-child(2) > a:last-of-type {
+  margin-top: 5px;
+}
+
+/* Company */
+h2 + p {
+  color: #444;
+  background-color: #eee;
+  padding: 0 7px;
+  font-size: 20px;
+  line-height: 28px;
+  text-transform: uppercase;
+  display: inline-block;
+  transform: translateY(-1px);
+  -webkit-transform: translateY(-1px); /* Needed for wkhtmltopdf */
+  margin: 0 0 0 5px;
+}
+
+/* Date */
+h2 + p + p {
+  color: #444;
+  text-transform: uppercase;
+  margin: 0;
+}
+
+/* Blurb */
+h2 + p + p + * {
+  border-top: 1px solid #ccc;
+  line-height: 1.4;
+  padding-top: 5px;
+  margin: 5px 0 20px 0;
+}
