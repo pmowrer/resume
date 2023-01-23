@@ -1,53 +1,58 @@
-Patrick Mowrer  
-<pmowrer@gmail.com>  
-(415)260-0620  
-<http://patrickmowrer.com>  
+**Patrick** Mowrer
 
-# Work Experience
+<pmowrer@gmail.com></br>
+(415) 260-0620  
+<http://github.com/pmowrer>
 
-## Tinychat, Lead Application Developer, Feb 2012 - Current
+---
 
-* Sole developer of one of the web's most popular video chat applications,
-used by 6-7 million unique users per month.
+# Experience
 
-* Hired to build the application from scratch, starting immediately on
-joining the Tinychat team. It's currently mostly written in AS3 and
-organized using the Robotlegs MVC framework.
+## Senior Engineer
 
-* The application loads a chat room via RTMP, enabling up to 12 people to
-video-chat simultaneously, while any amount of other users may join the
-room to watch and text chat.
+**Spotify, 2019-Present**
 
-* Other features include media sharing via YouTube and SoundCloud,
-moderation interfaces to ban/mute/remove user video, "green room" to
-pre-screen user video, private messaging via a custom Tinychat protocol
-and Facebook XMPP.
+Worked fullstack across the company's internal messaging product, primarily in TypeScript/Java. 
 
-## HBO, Flex Developer, Nov 2010 - Feb 2012
+* Led cross-functional effort to expand the product's reach to web/desktop clients.
+* Implemented new audience builder, significantly improving message targeting capabilities.
+* Developed new message creative editor, increasing efficiency for marketers and adding flexibility.
+* Refactored message model across systems to enhance performance for large messaging campaigns and simplify complexity.
+* Created tech leadership group to promote cross-team alignment and knowledge sharing.
+* Interviewed, mentored and supported junior developers.
 
-* Part of development team responsible for Flex applications powering
-hbogo.com and maxgo.com.
+## Lead Frontend Engineer
 
-* Created first version of the "portal player", a lite version of the
-HBOGO application embedded on websites of cable provider affiliates.
+**Updater, 2014-2018**
 
-* Responsible for all client-side feature and maintenance work related to
-cable provider affiliate integration.
+Built Updater's frontend team. Modernized tech stack from slow, duplicated angular.js apps to a performant micro-frontend based on web components in a monorepo.
 
-## Adobe Systems, Flash Authoring Quality Engineer, Aug 2006 - July 2010
+## Lead Software Engineer
 
-* Responsible for quality of Swedish versions of Flash Professional CS3
-through CS5.
+**Sports195, 2013-2014**
 
-* Developed UI-verification toolset on own initiative, increasing testing
-coverage and efficiency.
+Led development vertical for the company's mobile-first single page web app product, a white label global sports news portal built on a Backbone/Node/Scala stack.
 
-* Planned and executed international testing effort of new product
-features.
+## Senior Software Engineer
 
-* Managed testing effort of European 3rd party vendors.
+**YouNow, 2013**
+
+Converted YouNow's single page web app product from Flash to Backbone.
+
+## Lead Application Developer
+
+**Tinychat, 2011-2013**
+
+Built one of the web's most popular multi-way video chats, an IRC-like Flash app supporting 12 simultaneous video streams, effects, moderation, text chat and more. Used by 100+ millions of users through its lifetime.
+
+## Quality Engineer
+
+**Adobe, 2006-2010**
+
+Built QA tooling and applications, planned and executed testing effort of new product features and organized testing effort of 3rd party vendors. Shipped Swedish versions of Adobe Flash CS3-CS5.
 
 # Education
 
-## Santa Clara University, 2002 - 2006 
-### B.S. in Computer Science
+## B.S. in Computer Science
+
+Santa Clara University, 2002 - 2006
